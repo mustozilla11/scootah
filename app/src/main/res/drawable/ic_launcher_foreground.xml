@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Scootah foreground icon — electric scooter silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,54c0,9.94-8.06,18-18,18S36,63.94,36,54s8.06-18,18-18S72,44.06,72,54z" />
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M54,42c-6.63,0-12,5.37-12,12s5.37,12,12,12,12-5.37,12-12S60.63,42,54,42zM54,62c-4.42,0-8-3.58-8-8s3.58-8,8-8,8,3.58,8,8S58.42,62,54,62z"/>
+</vector>
